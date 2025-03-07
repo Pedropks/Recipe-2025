@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Zingen" src=".github/Thumbnail.png" width="100%">
+  <img alt="Recipe" src=".github/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,11 +32,11 @@ Bibliotecas
 
 ## 💻 Projeto
 
-Zingen é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Contato e Footer
+Recipe é uma página de receita , institucional no formato One Page!
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/Zingen-LP-2025/). 
+Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/Recipe-2025/). 
 
 ## 📝 Licença
 
